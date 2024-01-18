@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d94e4fe5270e1b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/Chapter1.introduction/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "71203e0cb18eed34",
@@ -98,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operating System/Chapter1.introduction/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Operating System/Chapter1.introduction/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Operating System/Chapter1.introduction/Untitled.md"
               }
             }
           }
@@ -159,16 +174,18 @@
   },
   "active": "0ca7af9b35aedb0a",
   "lastOpenFiles": [
-    "Chapter2.Threads and Concurrency",
+    "Operating System/Chapter1.introduction/Untitled.md",
+    "Operating System/Chapter7.Synchronization",
+    "Operating System/Chapter6.Synchronization Tools",
+    "Operating System/Chapter5.CPU Scheduling",
+    "Operating System/Chapter4.Threads and Concurrency",
     "Operating System/Chapter3.Processes",
     "Operating System/Chapter2.Operating-System Structures",
     "Operating System/README.md",
-    "Untitled.md",
     "Operating System/Chapter1.introduction",
     "README.md",
     "Computer Structure",
     "DataBase System",
-    "Computer Network",
-    "Operating System"
+    "Computer Network"
   ]
 }
