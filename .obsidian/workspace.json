@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "186899b4bb56a24d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -147,5 +158,17 @@
     }
   },
   "active": "0ca7af9b35aedb0a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Chapter2.Threads and Concurrency",
+    "Operating System/Chapter3.Processes",
+    "Operating System/Chapter2.Operating-System Structures",
+    "Operating System/README.md",
+    "Untitled.md",
+    "Operating System/Chapter1.introduction",
+    "README.md",
+    "Computer Structure",
+    "DataBase System",
+    "Computer Network",
+    "Operating System"
+  ]
 }
