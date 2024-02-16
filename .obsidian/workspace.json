@@ -8,39 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a06336ee42d1a35b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -129.4776081408042,
-                  "y": -87.27549760694444,
-                  "zoom": -0.14203292727470482
-                }
-              }
-            }
-          },
-          {
             "id": "186899b4bb56a24d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Operating System/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b0fbd7f2a1009fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Structure/01 컴퓨터구조 시작하기/01-2 컴퓨터구조의 큰 그림.md",
+                "file": "Computer Structure/02 데이터/02-1 0과 1로 숫자를 표현하는 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Structure/01 컴퓨터구조 시작하기/01-2 컴퓨터구조의 큰 그림.md",
+                "file": "Computer Structure/02 데이터/02-1 0과 1로 숫자를 표현하는 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Structure/01 컴퓨터구조 시작하기/01-2 컴퓨터구조의 큰 그림.md",
+                "file": "Computer Structure/02 데이터/02-1 0과 1로 숫자를 표현하는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Structure/01 컴퓨터구조 시작하기/01-2 컴퓨터구조의 큰 그림.md"
+                "file": "Computer Structure/02 데이터/02-1 0과 1로 숫자를 표현하는 방법.md"
               }
             }
           }
@@ -213,19 +186,22 @@
   },
   "active": "9ae8805f257715e1",
   "lastOpenFiles": [
-    "Pasted image 20240216141921.png",
-    "Pasted image 20240216140645.png",
-    "Pasted image 20240216140324.png",
-    "Pasted image 20240216135838.png",
-    "Pasted image 20240216135409.png",
-    "Computer Structure/01 컴퓨터구조 시작하기/01-1 컴퓨터 구조를 알아야 하는 이유.md",
     "Computer Structure/01 컴퓨터구조 시작하기/01-2 컴퓨터구조의 큰 그림.md",
     "Untitled.md",
-    "Computer Structure/01 컴퓨터구조 시작하기",
     "Operating System/README.md",
     "Untitled.canvas",
-    "2024-02-16.md",
     "README.md",
+    "src/Pasted image 20240216135409.png",
+    "2024-02-16.md",
+    "Computer Structure/02 데이터/02-1 0과 1로 숫자를 표현하는 방법.md",
+    "src",
+    "Computer Structure/02 데이터",
+    "src/Pasted image 20240216141921.png",
+    "src/Pasted image 20240216140645.png",
+    "src/Pasted image 20240216140324.png",
+    "src/Pasted image 20240216135838.png",
+    "Computer Structure/01 컴퓨터구조 시작하기/01-1 컴퓨터 구조를 알아야 하는 이유.md",
+    "Computer Structure/01 컴퓨터구조 시작하기",
     "Operating System/Chapter1.introduction/Untitled.md",
     "Operating System/Chapter7.Synchronization",
     "Operating System/Chapter6.Synchronization Tools",
@@ -233,8 +209,6 @@
     "Operating System/Chapter4.Threads and Concurrency",
     "Operating System/Chapter3.Processes",
     "Operating System/Chapter2.Operating-System Structures",
-    "Operating System/Chapter1.introduction",
-    "Computer Structure",
-    "DataBase System"
+    "Operating System/Chapter1.introduction"
   ]
 }
