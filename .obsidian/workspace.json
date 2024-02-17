@@ -56,6 +56,54 @@
             }
           },
           {
+            "id": "0ea6c8d12f9aa9f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Structure/03 명령어/03-1 소스코드와 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df5725a953ae5125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Structure/03 명령어/03-2 명령어의 구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d72187517a201feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Structure/04 CPU의 작동원리/04-1 ALU와 제어장치.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb9c99e7c01acde2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Structure/04 CPU의 작동원리/04-2 레지스터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d94e4fe5270e1b4f",
             "type": "leaf",
             "state": {
@@ -68,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -135,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Structure/02 데이터/02-2 0과 1로 문자를 표현하는 방법.md",
+                "file": "Computer Structure/04 CPU의 작동원리/04-2 레지스터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Structure/02 데이터/02-2 0과 1로 문자를 표현하는 방법.md",
+                "file": "Computer Structure/04 CPU의 작동원리/04-2 레지스터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Structure/02 데이터/02-2 0과 1로 문자를 표현하는 방법.md"
+                "file": "Computer Structure/04 CPU의 작동원리/04-2 레지스터.md"
               }
             }
           }
@@ -196,22 +244,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ef9c07f35e7069f",
+  "active": "eb9c99e7c01acde2",
   "lastOpenFiles": [
-    "Computer Structure/02 데이터/02-1 0과 1로 숫자를 표현하는 방법.md",
+    "src/Pasted image 20240217170159.png",
+    "src/Pasted image 20240217170146.png",
+    "Computer Structure/04 CPU의 작동원리/04-1 ALU와 제어장치.md",
+    "Computer Structure/04 CPU의 작동원리/04-2 레지스터.md",
+    "src/Pasted image 20240217164152.png",
+    "src/Pasted image 20240217164015.png",
+    "src/Pasted image 20240217163741.png",
+    "src/Pasted image 20240217163736.png",
+    "src/Pasted image 20240217163655.png",
+    "src/Pasted image 20240217162445.png",
+    "Computer Structure/03 명령어/03-2 명령어의 구조.md",
+    "Computer Structure/04 CPU의 작동원리",
+    "src/Pasted image 20240217162102.png",
+    "src/Pasted image 20240217161521.png",
+    "src/Pasted image 20240217161503.png",
+    "Computer Structure/03 명령어/03-1 소스코드와 명령어.md",
     "Computer Structure/02 데이터/02-2 0과 1로 문자를 표현하는 방법.md",
+    "Computer Structure/03 명령어",
+    "Computer Structure/02 데이터/02-1 0과 1로 숫자를 표현하는 방법.md",
     "Computer Structure/01 컴퓨터구조 시작하기/01-2 컴퓨터구조의 큰 그림.md",
     "Operating System/README.md",
     "Untitled.canvas",
     "README.md",
-    "src/Pasted image 20240216135409.png",
     "2024-02-16.md",
     "src",
     "Computer Structure/02 데이터",
-    "src/Pasted image 20240216141921.png",
-    "src/Pasted image 20240216140645.png",
-    "src/Pasted image 20240216140324.png",
-    "src/Pasted image 20240216135838.png",
     "Computer Structure/01 컴퓨터구조 시작하기/01-1 컴퓨터 구조를 알아야 하는 이유.md",
     "Computer Structure/01 컴퓨터구조 시작하기",
     "Operating System/Chapter1.introduction/Untitled.md",
@@ -219,8 +279,6 @@
     "Operating System/Chapter6.Synchronization Tools",
     "Operating System/Chapter5.CPU Scheduling",
     "Operating System/Chapter4.Threads and Concurrency",
-    "Operating System/Chapter3.Processes",
-    "Operating System/Chapter2.Operating-System Structures",
-    "Operating System/Chapter1.introduction"
+    "Operating System/Chapter3.Processes"
   ]
 }
