@@ -8,150 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "186899b4bb56a24d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b44ab239a4e36c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/01 컴퓨터구조 시작하기/01-1 컴퓨터 구조를 알아야 하는 이유.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ae8805f257715e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/02 데이터/02-1 0과 1로 숫자를 표현하는 방법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ef9c07f35e7069f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/02 데이터/02-2 0과 1로 문자를 표현하는 방법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ea6c8d12f9aa9f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/03 명령어/03-1 소스코드와 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df5725a953ae5125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/03 명령어/03-2 명령어의 구조.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d72187517a201feb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/04 CPU의 작동원리/04-1 ALU와 제어장치.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb9c99e7c01acde2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/04 CPU의 작동원리/04-2 레지스터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4874779919d2bd80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/04 CPU의 작동원리/04-3 명령어 사이클과 인터럽트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7aa74edd890d86e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/05 CPU 성능 향상 기법/05-1 빠른 CPU를 위한 설계 기법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "914e34649b4b5c8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/05 CPU 성능 향상 기법/05-2 명령어 병렬처리기법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9e3df699894d9c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/05 CPU 성능 향상 기법/05-3 CISC와 RISC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "087356eab101a3f2",
             "type": "leaf",
             "state": {
@@ -162,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd383dec09c95950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Structure/06 메모리와 캐시메모리/06-2 메모리의 주소공간.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45d3856c3f54cb26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-3 캐시메모리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Structure/06 메모리와 캐시메모리/06-1 RAM의 특징과 종류.md",
+                "file": "06-3 캐시메모리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Structure/06 메모리와 캐시메모리/06-1 RAM의 특징과 종류.md",
+                "file": "06-3 캐시메모리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Structure/06 메모리와 캐시메모리/06-1 RAM의 특징과 종류.md"
+                "file": "06-3 캐시메모리.md"
               }
             }
           }
@@ -292,43 +172,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "087356eab101a3f2",
+  "active": "45d3856c3f54cb26",
   "lastOpenFiles": [
-    "src/Pasted image 20240218150238.png",
-    "src/Pasted image 20240218150216.png",
-    "src/Pasted image 20240218150059.png",
-    "Computer Structure/05 CPU 성능 향상 기법/05-3 CISC와 RISC.md",
+    "src/Pasted image 20240218162549.png",
+    "src/Pasted image 20240218161824.png",
+    "src/Pasted image 20240218161515.png",
+    "Computer Structure/06 메모리와 캐시메모리/06-2 메모리의 주소공간.md",
+    "06-3 캐시메모리.md",
+    "src/Pasted image 20240218160251.png",
+    "src/Pasted image 20240218155827.png",
+    "src/Pasted image 20240218155555.png",
+    "src/Pasted image 20240218154934.png",
     "Computer Structure/06 메모리와 캐시메모리/06-1 RAM의 특징과 종류.md",
-    "Computer Structure/06 메모리와 캐시메모리",
-    "src/Pasted image 20240218145346.png",
-    "src/Pasted image 20240218144709.png",
-    "src/Pasted image 20240218144521.png",
-    "src/Pasted image 20240218144406.png",
-    "src/Pasted image 20240218144224.png",
+    "Computer Structure/05 CPU 성능 향상 기법/05-3 CISC와 RISC.md",
     "Computer Structure/05 CPU 성능 향상 기법/05-2 명령어 병렬처리기법.md",
-    "src/Pasted image 20240218142743.png",
-    "src/Pasted image 20240218141930.png",
     "Computer Structure/05 CPU 성능 향상 기법/05-1 빠른 CPU를 위한 설계 기법.md",
-    "src/Pasted image 20240218141025.png",
-    "Operating System/Chapter1.introduction/Untitled.md",
+    "Computer Structure/04 CPU의 작동원리/04-3 명령어 사이클과 인터럽트.md",
     "Computer Structure/04 CPU의 작동원리/04-2 레지스터.md",
     "Computer Structure/04 CPU의 작동원리/04-1 ALU와 제어장치.md",
     "Computer Structure/03 명령어/03-2 명령어의 구조.md",
-    "Computer Structure/04 CPU의 작동원리/04-3 명령어 사이클과 인터럽트.md",
-    "Computer Structure/05 CPU 성능 향상 기법",
-    "Computer Structure/04 CPU의 작동원리",
     "Computer Structure/03 명령어/03-1 소스코드와 명령어.md",
     "Computer Structure/02 데이터/02-2 0과 1로 문자를 표현하는 방법.md",
-    "Computer Structure/03 명령어",
     "Computer Structure/02 데이터/02-1 0과 1로 숫자를 표현하는 방법.md",
-    "Computer Structure/01 컴퓨터구조 시작하기/01-2 컴퓨터구조의 큰 그림.md",
+    "Computer Structure/01 컴퓨터구조 시작하기/01-1 컴퓨터 구조를 알아야 하는 이유.md",
     "Operating System/README.md",
+    "src/Pasted image 20240218150238.png",
+    "src/Pasted image 20240218150216.png",
+    "src/Pasted image 20240218150059.png",
+    "Computer Structure/06 메모리와 캐시메모리",
+    "src/Pasted image 20240218145346.png",
+    "Operating System/Chapter1.introduction/Untitled.md",
+    "Computer Structure/05 CPU 성능 향상 기법",
+    "Computer Structure/04 CPU의 작동원리",
+    "Computer Structure/03 명령어",
+    "Computer Structure/01 컴퓨터구조 시작하기/01-2 컴퓨터구조의 큰 그림.md",
     "Untitled.canvas",
     "README.md",
     "2024-02-16.md",
     "src",
     "Computer Structure/02 데이터",
-    "Computer Structure/01 컴퓨터구조 시작하기/01-1 컴퓨터 구조를 알아야 하는 이유.md",
     "Computer Structure/01 컴퓨터구조 시작하기",
     "Operating System/Chapter7.Synchronization",
     "Operating System/Chapter6.Synchronization Tools",
