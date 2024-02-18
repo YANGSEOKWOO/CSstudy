@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Structure/06 메모리와 캐시메모리/06-2 메모리의 주소공간.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45d3856c3f54cb26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-3 캐시메모리.md",
+                "file": "Computer Structure/06 메모리와 캐시메모리/06-3 캐시메모리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "71203e0cb18eed34",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-3 캐시메모리.md",
+                "file": "Computer Structure/06 메모리와 캐시메모리/06-3 캐시메모리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06-3 캐시메모리.md",
+                "file": "Computer Structure/06 메모리와 캐시메모리/06-3 캐시메모리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-3 캐시메모리.md"
+                "file": "Computer Structure/06 메모리와 캐시메모리/06-3 캐시메모리.md"
               }
             }
           }
@@ -172,13 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45d3856c3f54cb26",
+  "active": "cd383dec09c95950",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Computer Structure/06 메모리와 캐시메모리/06-3 캐시메모리.md",
+    "2024-02-18.md",
+    "Computer Structure/06 메모리와 캐시메모리/06-2 메모리의 주소공간.md",
     "src/Pasted image 20240218162549.png",
     "src/Pasted image 20240218161824.png",
     "src/Pasted image 20240218161515.png",
-    "Computer Structure/06 메모리와 캐시메모리/06-2 메모리의 주소공간.md",
-    "06-3 캐시메모리.md",
     "src/Pasted image 20240218160251.png",
     "src/Pasted image 20240218155827.png",
     "src/Pasted image 20240218155555.png",
@@ -200,13 +189,11 @@
     "src/Pasted image 20240218150216.png",
     "src/Pasted image 20240218150059.png",
     "Computer Structure/06 메모리와 캐시메모리",
-    "src/Pasted image 20240218145346.png",
     "Operating System/Chapter1.introduction/Untitled.md",
     "Computer Structure/05 CPU 성능 향상 기법",
     "Computer Structure/04 CPU의 작동원리",
     "Computer Structure/03 명령어",
     "Computer Structure/01 컴퓨터구조 시작하기/01-2 컴퓨터구조의 큰 그림.md",
-    "Untitled.canvas",
     "README.md",
     "2024-02-16.md",
     "src",
