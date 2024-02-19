@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-2 다양한 입출력 방법.md",
+                "file": "Computer Structure/08 입출력장치/08-2 다양한 입출력 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-2 다양한 입출력 방법.md",
+                "file": "Computer Structure/08 입출력장치/08-2 다양한 입출력 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08-2 다양한 입출력 방법.md",
+                "file": "Computer Structure/08 입출력장치/08-2 다양한 입출력 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08-2 다양한 입출력 방법.md"
+                "file": "Computer Structure/08 입출력장치/08-2 다양한 입출력 방법.md"
               }
             }
           }
@@ -208,21 +208,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d62643191b0fcb1",
+  "active": "0ca7af9b35aedb0a",
   "lastOpenFiles": [
+    "src/Pasted image 20240219151027.png",
+    "src/Pasted image 20240219150907.png",
+    "src/Pasted image 20240219150753.png",
+    "src/Pasted image 20240219150317.png",
+    "src/Pasted image 20240219150048.png",
+    "src/Pasted image 20240219150006.png",
     "src/Pasted image 20240219144039.png",
     "src/Pasted image 20240219143855.png",
     "src/Pasted image 20240219143800.png",
     "src/Pasted image 20240219143548.png",
     "src/Pasted image 20240219143539.png",
-    "src/Pasted image 20240219142829.png",
-    "src/Pasted image 20240219142727.png",
-    "src/Pasted image 20240219142557.png",
     "Computer Structure/08 입출력장치/08-1 장치컨트롤러와 장치 드라이버.md",
-    "08-2 다양한 입출력 방법.md",
-    "src/Pasted image 20240219141723.png",
-    "src/Pasted image 20240219141227.png",
-    "src/Pasted image 20240219141202.png",
+    "Computer Structure/08 입출력장치/08-2 다양한 입출력 방법.md",
     "Computer Structure/07 보조기억장치/07-1 다양한 보조기억장치.md",
     "Computer Structure/07 보조기억장치/07-2 RAID의 정의와 종류.md",
     "Computer Structure/08 입출력장치",
