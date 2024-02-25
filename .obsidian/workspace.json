@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "71203e0cb18eed34",
@@ -243,8 +244,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ca7af9b35aedb0a",
+  "active": "ee60022e36cfe218",
   "lastOpenFiles": [
+    "src/Pasted image 20240222163457.png",
+    "src/Pasted image 20240222163313.png",
+    "src/Pasted image 20240222162816.png",
+    "src/Pasted image 20240222162340.png",
     "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md",
     "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
     "Computer Structure/09 운영체제 시작하기/09-0 운영체제 서론.md",
@@ -259,9 +264,6 @@
     "src/Pasted image 20240219150907.png",
     "src/Pasted image 20240219150753.png",
     "src/Pasted image 20240219150317.png",
-    "src/Pasted image 20240219150048.png",
-    "src/Pasted image 20240219150006.png",
-    "src/Pasted image 20240219144039.png",
     "Computer Structure/08 입출력장치/08-1 장치컨트롤러와 장치 드라이버.md",
     "Computer Structure/07 보조기억장치/07-1 다양한 보조기억장치.md",
     "Computer Structure/07 보조기억장치/07-2 RAID의 정의와 종류.md",
@@ -288,7 +290,6 @@
     "Computer Structure/04 CPU의 작동원리",
     "Computer Structure/03 명령어",
     "Computer Structure/01 컴퓨터구조 시작하기/01-2 컴퓨터구조의 큰 그림.md",
-    "README.md",
     "src",
     "Computer Structure/02 데이터",
     "Computer Structure/01 컴퓨터구조 시작하기"
