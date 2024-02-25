@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f4996de29b9a0142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Structure/10 프로세스와 스레드/10-1 프로세스 개요.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cd383dec09c95950",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
+                "file": "Computer Structure/10 프로세스와 스레드/10-1 프로세스 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
+                "file": "Computer Structure/10 프로세스와 스레드/10-1 프로세스 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md"
+                "file": "Computer Structure/10 프로세스와 스레드/10-1 프로세스 개요.md"
               }
             }
           }
@@ -244,26 +256,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee60022e36cfe218",
+  "active": "f4996de29b9a0142",
   "lastOpenFiles": [
+    "src/Pasted image 20240225144403.png",
+    "src/Pasted image 20240225143850.png",
+    "src/Pasted image 20240225143437.png",
+    "src/Pasted image 20240225143056.png",
+    "src/Pasted image 20240225142124.png",
+    "src/Screenshot 2024-02-25 at 2.13.14 PM.png",
+    "Computer Structure/06 메모리와 캐시메모리/06-1 RAM의 특징과 종류.md",
+    "Computer Structure/10 프로세스와 스레드/10-1 프로세스 개요.md",
+    "Computer Structure/10 프로세스와 스레드",
+    "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
     "src/Pasted image 20240222163457.png",
     "src/Pasted image 20240222163313.png",
     "src/Pasted image 20240222162816.png",
     "src/Pasted image 20240222162340.png",
     "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md",
-    "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
     "Computer Structure/09 운영체제 시작하기/09-0 운영체제 서론.md",
     "src/Pasted image 20240222155057.png",
-    "src/Pasted image 20240222153122.png",
-    "src/Pasted image 20240222152935.png",
     "Computer Structure/08 입출력장치/08-2 다양한 입출력 방법.md",
     "Computer Structure/09 운영체제 시작하기",
     "Untitled.canvas",
-    "Computer Structure/06 메모리와 캐시메모리/06-1 RAM의 특징과 종류.md",
-    "src/Pasted image 20240219151027.png",
-    "src/Pasted image 20240219150907.png",
-    "src/Pasted image 20240219150753.png",
-    "src/Pasted image 20240219150317.png",
     "Computer Structure/08 입출력장치/08-1 장치컨트롤러와 장치 드라이버.md",
     "Computer Structure/07 보조기억장치/07-1 다양한 보조기억장치.md",
     "Computer Structure/07 보조기억장치/07-2 RAID의 정의와 종류.md",
@@ -289,9 +303,7 @@
     "Computer Structure/05 CPU 성능 향상 기법",
     "Computer Structure/04 CPU의 작동원리",
     "Computer Structure/03 명령어",
-    "Computer Structure/01 컴퓨터구조 시작하기/01-2 컴퓨터구조의 큰 그림.md",
     "src",
-    "Computer Structure/02 데이터",
-    "Computer Structure/01 컴퓨터구조 시작하기"
+    "Computer Structure/02 데이터"
   ]
 }
