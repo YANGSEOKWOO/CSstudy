@@ -25,43 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Structure/10 프로세스와 스레드/10-1 프로세스 개요.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c4742aada76c2e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/10 프로세스와 스레드/10-2 프로세스 상태와 계층구조.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5efb566945fbb933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Computer Structure/10 프로세스와 스레드/10-3 스레드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd383dec09c95950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/06 메모리와 캐시메모리/06-3 캐시메모리.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,22 +244,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5efb566945fbb933",
+  "active": "f4996de29b9a0142",
   "lastOpenFiles": [
+    "src/Pasted image 20240225162811.png",
+    "src/Pasted image 20240225162618.png",
+    "Computer Structure/10 프로세스와 스레드/10-1 프로세스 개요.md",
+    "Computer Structure/10 프로세스와 스레드/10-2 프로세스 상태와 계층구조.md",
+    "src/Pasted image 20240225162544.png",
+    "Computer Structure/10 프로세스와 스레드/10-3 스레드.md",
+    "src/Pasted image 20240225162536.png",
+    "src/Pasted image 20240225162201.png",
     "src/Pasted image 20240225161258.png",
     "src/Pasted image 20240225161244.png",
-    "Computer Structure/10 프로세스와 스레드/10-2 프로세스 상태와 계층구조.md",
-    "Computer Structure/10 프로세스와 스레드/10-3 스레드.md",
     "src/Pasted image 20240225152153.png",
     "src/Pasted image 20240225152034.png",
     "src/Pasted image 20240225151545.png",
     "src/Pasted image 20240225151039.png",
-    "Computer Structure/10 프로세스와 스레드/10-1 프로세스 개요.md",
-    "src/Pasted image 20240225144403.png",
-    "src/Pasted image 20240225143850.png",
-    "src/Pasted image 20240225143437.png",
-    "src/Pasted image 20240225143056.png",
-    "src/Pasted image 20240225142124.png",
     "Computer Structure/06 메모리와 캐시메모리/06-1 RAM의 특징과 종류.md",
     "Computer Structure/10 프로세스와 스레드",
     "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
