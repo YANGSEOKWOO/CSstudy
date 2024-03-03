@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Structure/10 프로세스와 스레드/10-3 스레드.md",
+                "file": "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "201efcde906d254d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Structure/11 CPU 스케줄링/11-1 CPU 스케줄링 개요.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23fb972c4b369a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Structure/11 CPU 스케줄링/11-2 CPU 스케줄링 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Structure/10 프로세스와 스레드/10-3 스레드.md",
+                "file": "Computer Structure/11 CPU 스케줄링/11-2 CPU 스케줄링 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Structure/10 프로세스와 스레드/10-3 스레드.md",
+                "file": "Computer Structure/11 CPU 스케줄링/11-2 CPU 스케줄링 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Structure/10 프로세스와 스레드/10-3 스레드.md"
+                "file": "Computer Structure/11 CPU 스케줄링/11-2 CPU 스케줄링 알고리즘.md"
               }
             }
           }
@@ -236,33 +260,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f4996de29b9a0142",
+  "active": "23fb972c4b369a69",
   "lastOpenFiles": [
+    "Computer Structure/11 CPU 스케줄링/11-1 CPU 스케줄링 개요.md",
+    "Computer Structure/11 CPU 스케줄링/11-2 CPU 스케줄링 알고리즘.md",
+    "src/Pasted image 20240227194941.png",
+    "src/Pasted image 20240227194707.png",
+    "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
+    "Computer Structure/11 CPU 스케줄링",
+    "Computer Structure/10 프로세스와 스레드/10-3 스레드.md",
     "src/Pasted image 20240225162811.png",
     "src/Pasted image 20240225162618.png",
     "Computer Structure/10 프로세스와 스레드/10-1 프로세스 개요.md",
     "Computer Structure/10 프로세스와 스레드/10-2 프로세스 상태와 계층구조.md",
     "src/Pasted image 20240225162544.png",
-    "Computer Structure/10 프로세스와 스레드/10-3 스레드.md",
     "src/Pasted image 20240225162536.png",
     "src/Pasted image 20240225162201.png",
     "src/Pasted image 20240225161258.png",
     "src/Pasted image 20240225161244.png",
     "src/Pasted image 20240225152153.png",
-    "src/Pasted image 20240225152034.png",
-    "src/Pasted image 20240225151545.png",
-    "src/Pasted image 20240225151039.png",
     "Computer Structure/06 메모리와 캐시메모리/06-1 RAM의 특징과 종류.md",
     "Computer Structure/10 프로세스와 스레드",
-    "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
     "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md",
     "Computer Structure/09 운영체제 시작하기/09-0 운영체제 서론.md",
     "Computer Structure/08 입출력장치/08-2 다양한 입출력 방법.md",
@@ -286,12 +312,10 @@
     "Computer Structure/03 명령어/03-1 소스코드와 명령어.md",
     "Computer Structure/02 데이터/02-2 0과 1로 문자를 표현하는 방법.md",
     "Computer Structure/02 데이터/02-1 0과 1로 숫자를 표현하는 방법.md",
-    "Computer Structure/01 컴퓨터구조 시작하기/01-1 컴퓨터 구조를 알아야 하는 이유.md",
     "Computer Structure/06 메모리와 캐시메모리",
     "Computer Structure/05 CPU 성능 향상 기법",
     "Computer Structure/04 CPU의 작동원리",
     "Computer Structure/03 명령어",
-    "src",
-    "Computer Structure/02 데이터"
+    "src"
   ]
 }
