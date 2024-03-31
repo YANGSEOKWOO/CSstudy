@@ -8,114 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "087356eab101a3f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/06 메모리와 캐시메모리/06-1 RAM의 특징과 종류.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4996de29b9a0142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "201efcde906d254d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/11 CPU 스케줄링/11-1 CPU 스케줄링 개요.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23fb972c4b369a69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/11 CPU 스케줄링/11-2 CPU 스케줄링 알고리즘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cf4b4ad43118da7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/07 보조기억장치/07-1 다양한 보조기억장치.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8035aaecd791ed40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/07 보조기억장치/07-2 RAID의 정의와 종류.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19abd1ed7422764a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/08 입출력장치/08-1 장치컨트롤러와 장치 드라이버.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d62643191b0fcb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/08 입출력장치/08-2 다양한 입출력 방법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "084c49065ce54739",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9f4593d0886d4bb0",
             "type": "leaf",
             "state": {
@@ -139,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Structure/11 CPU 스케줄링/11-2 CPU 스케줄링 알고리즘.md",
+                "file": "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Structure/11 CPU 스케줄링/11-2 CPU 스케줄링 알고리즘.md",
+                "file": "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Structure/11 CPU 스케줄링/11-2 CPU 스케줄링 알고리즘.md"
+                "file": "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md"
               }
             }
           }
@@ -267,13 +158,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "23fb972c4b369a69",
+  "active": "9f4593d0886d4bb0",
   "lastOpenFiles": [
+    "Computer Structure/08 입출력장치/08-2 다양한 입출력 방법.md",
+    "Computer Structure/08 입출력장치/08-1 장치컨트롤러와 장치 드라이버.md",
+    "Computer Structure/07 보조기억장치/07-2 RAID의 정의와 종류.md",
+    "Computer Structure/07 보조기억장치/07-1 다양한 보조기억장치.md",
+    "Computer Structure/06 메모리와 캐시메모리/06-1 RAM의 특징과 종류.md",
+    "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
     "Computer Structure/11 CPU 스케줄링/11-1 CPU 스케줄링 개요.md",
     "Computer Structure/11 CPU 스케줄링/11-2 CPU 스케줄링 알고리즘.md",
     "src/Pasted image 20240227194941.png",
     "src/Pasted image 20240227194707.png",
-    "Computer Structure/09 운영체제 시작하기/09-2 운영체제의 큰 그림.md",
     "Computer Structure/11 CPU 스케줄링",
     "Computer Structure/10 프로세스와 스레드/10-3 스레드.md",
     "src/Pasted image 20240225162811.png",
@@ -286,16 +182,11 @@
     "src/Pasted image 20240225161258.png",
     "src/Pasted image 20240225161244.png",
     "src/Pasted image 20240225152153.png",
-    "Computer Structure/06 메모리와 캐시메모리/06-1 RAM의 특징과 종류.md",
     "Computer Structure/10 프로세스와 스레드",
     "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md",
     "Computer Structure/09 운영체제 시작하기/09-0 운영체제 서론.md",
-    "Computer Structure/08 입출력장치/08-2 다양한 입출력 방법.md",
     "Computer Structure/09 운영체제 시작하기",
     "Untitled.canvas",
-    "Computer Structure/08 입출력장치/08-1 장치컨트롤러와 장치 드라이버.md",
-    "Computer Structure/07 보조기억장치/07-1 다양한 보조기억장치.md",
-    "Computer Structure/07 보조기억장치/07-2 RAID의 정의와 종류.md",
     "Computer Structure/08 입출력장치",
     "Computer Structure/06 메모리와 캐시메모리/06-3 캐시메모리.md",
     "Computer Structure/07 보조기억장치",
