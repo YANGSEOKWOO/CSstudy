@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "b975fcd3c8cf82ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Network/용어정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd09ee5e3a0d1d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Network/큰 틀.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98d451b1f42c163a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Network/Chapter1 웹 브라우저가 메시지를 만든다..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ee60022e36cfe218",
             "type": "leaf",
             "state": {
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md",
+                "file": "Computer Network/Chapter1 웹 브라우저가 메시지를 만든다..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md",
+                "file": "Computer Network/Chapter1 웹 브라우저가 메시지를 만든다..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md"
+                "file": "Computer Network/Chapter1 웹 브라우저가 메시지를 만든다..md"
               }
             }
           }
@@ -158,8 +195,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9f4593d0886d4bb0",
+  "active": "98d451b1f42c163a",
   "lastOpenFiles": [
+    "Computer Network/큰 틀.md",
+    "Computer Network/Chapter1 웹 브라우저가 메시지를 만든다..md",
+    "Computer Network/용어정리.md",
+    "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md",
+    "성공과 실패를 결정하는 1% 네트워크",
     "Computer Structure/08 입출력장치/08-2 다양한 입출력 방법.md",
     "Computer Structure/08 입출력장치/08-1 장치컨트롤러와 장치 드라이버.md",
     "Computer Structure/07 보조기억장치/07-2 RAID의 정의와 종류.md",
@@ -183,7 +225,6 @@
     "src/Pasted image 20240225161244.png",
     "src/Pasted image 20240225152153.png",
     "Computer Structure/10 프로세스와 스레드",
-    "Computer Structure/09 운영체제 시작하기/09-1 운영체제를 알아야 하는 이유.md",
     "Computer Structure/09 운영체제 시작하기/09-0 운영체제 서론.md",
     "Computer Structure/09 운영체제 시작하기",
     "Untitled.canvas",
@@ -199,13 +240,9 @@
     "Computer Structure/04 CPU의 작동원리/04-2 레지스터.md",
     "Computer Structure/04 CPU의 작동원리/04-1 ALU와 제어장치.md",
     "Computer Structure/03 명령어/03-2 명령어의 구조.md",
-    "Computer Structure/03 명령어/03-1 소스코드와 명령어.md",
-    "Computer Structure/02 데이터/02-2 0과 1로 문자를 표현하는 방법.md",
-    "Computer Structure/02 데이터/02-1 0과 1로 숫자를 표현하는 방법.md",
     "Computer Structure/06 메모리와 캐시메모리",
     "Computer Structure/05 CPU 성능 향상 기법",
     "Computer Structure/04 CPU의 작동원리",
-    "Computer Structure/03 명령어",
-    "src"
+    "Computer Structure/03 명령어"
   ]
 }
